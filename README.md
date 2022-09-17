@@ -1,6 +1,8 @@
-I'm just a guy, who writes code.
+I'm just a guy, who writes code and can do it for you.
 
-Reach me on my discord resyntax#0630 if you want my help, don't know why you would but ok. I do Python, C++, and C# (no freebies).
+Reach me on my discord resyntax#0630 if you want me to do something for you. I do Python, Node.js, and C#.
+
+I specialise in discord bots and database scenanigans.
 
 Thunderstore : resyntax
 
