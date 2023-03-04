@@ -1,10 +1,6 @@
-I'm just a guy, who writes code: and can do it for you.
+Wannabe Programmer. Done some stuff. All that can be said.
 
-Reach me on my discord resyntax#0630 if you want me to do something. I do Python, Node.js, and C#.
-
-I specialise in discord bots, unity (including modding) and database shenanigans.
-
-Thunderstore : resyntax
+Discord: resyntax#0630
 
 <!---
 resyntax/resyntax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
