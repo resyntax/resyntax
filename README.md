@@ -1,4 +1,4 @@
-Wannabe Programmer. Done some stuff. All that can be said.
+Hobbyist Programmer. Done some stuff, most of it unfinished. All that can be said.
 
 contacting me is futile
 
