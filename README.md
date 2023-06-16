@@ -1,6 +1,6 @@
 Wannabe Programmer. Done some stuff. All that can be said.
 
-Discord: resyntax#0630
+contacting me is futile
 
 <!---
 resyntax/resyntax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
