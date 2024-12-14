@@ -1,4 +1,4 @@
-Hobbyist Programmer. Done some stuff, most of it unfinished. All that can be said.
+Hobbyist Maker. Done some stuff, most of it unpublished. All that can be said.
 
 contacting me is futile
 
