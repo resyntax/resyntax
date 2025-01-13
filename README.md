@@ -1,6 +1,6 @@
-Hobbyist Maker. Done some stuff, most of it unpublished. All that can be said.
+Hobbyist Maker. Working on projects that will be released soon.
 
-contacting me is futile
+contacting me should be done via github.
 
 <!---
 resyntax/resyntax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
